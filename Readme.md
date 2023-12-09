@@ -1,1 +1,1 @@
-the file contain about 
+the file contain about mangement 
